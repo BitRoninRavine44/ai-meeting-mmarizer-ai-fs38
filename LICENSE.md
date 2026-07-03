@@ -1,4 +1,4 @@
-# 
+# Premium AI Meeting Notes Summarizer herramientas. Con reconocimiento de imágenes y visión por computadora — optimizado para el máximo rendimiento.
 
 
 
